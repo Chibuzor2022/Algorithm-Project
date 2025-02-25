@@ -2,4 +2,4 @@ This project is part of a training program. The project was to develop an algori
 (1)The length of the sentence (the number of characters).
 (2)The number of words in the sentence.
 (3)The number of vowels in the sentence.
-This project was developed using mainly Javascript and HTML.
+This project was developed using mainly Javascript and HTML. Check out the project here: https://algorithmproject.netlify.app/
